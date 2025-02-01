@@ -9,3 +9,10 @@ To run this notebook, install Jupyter Notebook and NumPy using the following com
 
 ```sh
 pip install notebook numpy
+
+## 📂 Cloning the Repository  
+To download this repository to your local machine, run:  
+
+```sh
+git clone https://github.com/FatemehKashfi/Python-Numpy.git
+cd Python-Numpy
